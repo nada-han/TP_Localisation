@@ -6,20 +6,20 @@ Ce TP vise à développer un système de localisation en utilisant PHP comme bac
 
 - Test de l'ajout d'une localisation avec postman :
 
-![create](https://github.com/nada-han/TP_Localisation/assets/124934843/8be2b6a8-4ce0-4df2-ad5f-acb601dc6c58)
+![create](https://github.com/nada-han/TP_Localisation/assets/124934843/14c51015-6727-4a73-8c13-06fe0cab798b)
 
 - Test de la récupération des localisations :
 
-![get](https://github.com/nada-han/TP_Localisation/assets/124934843/a2757f06-8157-4b8e-b836-f81693f999b8)
+![get](https://github.com/nada-han/TP_Localisation/assets/124934843/bafce668-dd6e-4e93-becc-198a46646da7)
 
 - Dans la base de données :
 
-![bdd](https://github.com/nada-han/TP_Localisation/assets/124934843/47563902-b459-4164-9522-f53b8bbb44f0)
+![bdd](https://github.com/nada-han/TP_Localisation/assets/124934843/68713ec7-305d-4d99-8cb9-5df39f681688)
 
 - La première activité principale :
 
-![cap1](https://github.com/nada-han/TP_Localisation/assets/124934843/dd88bb1c-e389-477b-b08e-546114d23a70)
+![cap1](https://github.com/nada-han/TP_Localisation/assets/124934843/26045b69-0993-4154-8baa-199eda47bcc3)
 
 - L'activité de la carte :
 
-![cap2](https://github.com/nada-han/TP_Localisation/assets/124934843/ea5550de-3d3d-4220-b45d-5467c2b0f3a2)
+![cap2](https://github.com/nada-han/TP_Localisation/assets/124934843/79a654f0-ea0e-481a-b2e0-9f22032c0bce)
